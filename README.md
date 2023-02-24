@@ -1,3 +1,5 @@
+![logo](https://github.com/Sksana532/Sksana532/blob/main/28d017f7-317a-405c-aaff-0055b966b8f3.jpeg)
+
 <h1 align="center">Hi 👋, I'm Sana Fatima</h1>
 <h3 align="center">A passionate sofware engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif">
